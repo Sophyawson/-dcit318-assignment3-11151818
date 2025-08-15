@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\bin\Debug\net8.0\HealthSys.exe
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\bin\Debug\net8.0\HealthSys.deps.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\bin\Debug\net8.0\HealthSys.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\bin\Debug\net8.0\HealthSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\bin\Debug\net8.0\HealthSys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\refint\HealthSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\HealthSys.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\HealthSys\obj\Debug\net8.0\ref\HealthSys.dll
