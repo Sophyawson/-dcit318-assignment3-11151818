@@ -1,0 +1,5 @@
+Cornelius Yawson (ID: 101): Score = 84, Grade = A
+Evelyn Domson-Appiah (ID: 102): Score = 76, Grade = B
+Emmanuel Anietey (ID: 103): Score = 65, Grade = C
+Ama Montford (ID: 104): Score = 48, Grade = F
+Kofi Amoakohene (ID: 105): Score = 92, Grade = A

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\bin\Debug\net8.0\GradingSys.exe
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\bin\Debug\net8.0\GradingSys.deps.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\bin\Debug\net8.0\GradingSys.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\bin\Debug\net8.0\GradingSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\bin\Debug\net8.0\GradingSys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\refint\GradingSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\GradingSys.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\GradingSys\obj\Debug\net8.0\ref\GradingSys.dll
