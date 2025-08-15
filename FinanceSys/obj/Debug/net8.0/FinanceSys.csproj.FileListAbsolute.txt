@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\bin\Debug\net8.0\FinanceSys.exe
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\bin\Debug\net8.0\FinanceSys.deps.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\bin\Debug\net8.0\FinanceSys.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\bin\Debug\net8.0\FinanceSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\bin\Debug\net8.0\FinanceSys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\refint\FinanceSys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\FinanceSys.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\FinanceSys\obj\Debug\net8.0\ref\FinanceSys.dll
