@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\bin\Debug\net8.0\InventorySys.exe
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\bin\Debug\net8.0\InventorySys.deps.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\bin\Debug\net8.0\InventorySys.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\bin\Debug\net8.0\InventorySys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\bin\Debug\net8.0\InventorySys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.sourcelink.json
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\refint\InventorySys.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\InventorySys.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment3\-dcit318-assignment3-11151818\InventorySys\obj\Debug\net8.0\ref\InventorySys.dll
